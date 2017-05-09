@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<head>
+    <meta charset="UTF-8" />
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">  -->
+    <title>Quiz Form </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="description" content="Login and Registration Form with HTML5 and CSS3" />
+    <meta name="keywords" content="html5, css3, form, switch, animation, :target, pseudo-class" />
+    <meta name="author" content="Codrops" />
+    <link rel="shortcut icon" href="../favicon.ico"> 
+    <link rel="stylesheet" type="text/css" href="css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/animate-custom.css" />
+
+    <style>
+        .selector
+        {
+            width:75%;
+            background-color: rgb(213, 227, 229);
+            border: 1px solid #ccc;
+            height:30px;
+            color: #1d3c41;
+            font-weight: bold;
+            font-size:20px;
+        }
+        table{
+            width:100%;
+            cellpadding:10;
+        }
+        td
+        {
+            width:30%;
+            text-align: left;
+            padding-left: 30px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .tdList{
+            display:list-item;
+            list-style:decimal inside;
+            width:180%;
+            colspan:8;
+        }
+
+
+        .submitButton{
+            width: 30%;
+            cursor: pointer;	
+            background: rgb(61, 157, 179);
+            padding: 8px 5px;
+            font-family: 'BebasNeueRegular','Arial Narrow',Arial,sans-serif;
+            color: #fff;
+            font-size: 24px;	
+            border: 1px solid rgb(28, 108, 122);	
+            margin-bottom: 10px;	
+            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            border-radius: 3px;	
+            -webkit-box-shadow: 0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+                0px 0px 0px 3px rgb(254, 254, 254),
+                0px 5px 3px 3px rgb(210, 210, 210);
+            -moz-box-shadow:0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+                0px 0px 0px 3px rgb(254, 254, 254),
+                0px 5px 3px 3px rgb(210, 210, 210);
+            box-shadow:0px 1px 6px 4px rgba(0, 0, 0, 0.07) inset,
+                0px 0px 0px 3px rgb(254, 254, 254),
+                0px 5px 3px 3px rgb(210, 210, 210);
+            -webkit-transition: all 0.2s linear;
+            -moz-transition: all 0.2s linear;
+            -o-transition: all 0.2s linear;
+            transition: all 0.2s linear;
+        }
+        .submitButton:hover{
+            background: rgb(74, 179, 198);
+        }
+        .submitButton:active,
+        .submitButton:focus{
+            background: rgb(40, 137, 154);
+            position: relative;
+            top: 1px;
+            border: 1px solid rgb(12, 76, 87);	
+            -webkit-box-shadow: 0px 1px 6px 4px rgba(0, 0, 0, 0.2) inset;
+            -moz-box-shadow: 0px 1px 6px 4px rgba(0, 0, 0, 0.2) inset;
+            box-shadow: 0px 1px 6px 4px rgba(0, 0, 0, 0.2) inset;
+        }
+        .wronganswer {
+    
+    color: red;
+}
+        .rightanswer {
+    
+    color: green;
+}
+    </style>
+</head>
+<body>
+    <div class="container" ng-controller="quizcontroller">
+        <div id="container_demo" >
+            <div id="wrapper">
+                <form ng-show="selectCategory">
+                    <h1>Select the category to start the Quiz:</h1>
+                    <br/>
+                    <center>
+                        <select id="categories" ng-model="categories" class="selector">
+                            <option value="">Select</option>
+                            <option value="JAVA">JAVA</option>
+                            <option value="HTML">CSS</option>
+                            <option value="JAVASCRIPT">JAVASCRIPT</option>
+                            <option value="HTML">HTML</option>
+                        </select>
+                    </center>
+                    <br/>
+                    <p class="button" style="margin-left: 25%; margin-top:30%;"> 
+                        <input type="button" ng-click="getQuestions()" value="Start"/>
+                    </p>
+                    <p>{{err}}</p>
+                </form>
+
+                <form ng-show="quizForm">
+                    <div ng-repeat="items in messages" style="background-color: rgb(247, 247, 247);">
+                        <table id="{{$index+1}}">
+                            <tr>
+                                <td id="question_{{$index+1}}" class="tdList">{{items.question}}</td>
+                            </tr>
+                            <tr> 
+                                <td id="optionA{{$index+1}}"><input type="radio" value="A" id="A{{$index+1}}"  name="{{$index+1}}">{{items.option1}}</td>
+                                <td id="optionB{{$index+1}}"> <input type="radio" value="B" id="B{{$index+1}}" name="{{$index+1}}" >{{items.option2}}</td>
+                            </tr>
+                            <tr> 
+                                <td id="optionC{{$index+1}}"> <input type="radio" value="C" id="C{{$index+1}}" name="{{$index+1}}" >{{items.option3}}</td>
+                                <td id="optionD{{$index+1}}"> <input type="radio" value="D" id="D{{$index+1}}" name="{{$index+1}}">{{items.option4}}</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <input type="button" ng-click="quizSubmit()" value="Submit" class="submitButton"/>
+                </form>
+            </div>
+        </div>
+    </div> 
+</body>
+

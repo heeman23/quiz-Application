@@ -1,0 +1,464 @@
+
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+    
+<?xml version="1.0" encoding="UTF-8"?>
+<NGOSearchDocumentExt_Output>
+   <Option>NGOSearchDocumentExt</Option>
+   <Status>0</Status>
+   <NoOfRecordsFetched>10</NoOfRecordsFetched>
+   <TotalNoOfRecords>11</TotalNoOfRecords>
+   <MaximumHitCount>30214</MaximumHitCount>
+   <SearchResults>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>844734</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305604</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_AADHAAR CARD</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-13 17:18:39</CreationDateTime>
+            <RevisedDateTime>2017-04-13 17:18:39</RevisedDateTime>
+            <AccessDateTime>2017-04-13 19:25:05</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>1069111#2</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>98794</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-13 17:18:39</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-13 17:18:39</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>2</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>842351</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305589</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_DRIVING LICENCE</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-13 16:03:19</CreationDateTime>
+            <RevisedDateTime>2017-04-13 16:03:19</RevisedDateTime>
+            <AccessDateTime>2017-04-13 16:03:19</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>1066709#2</ISIndex>
+            <NoOfPages>2</NoOfPages>
+            <DocumentSize>236258</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-13 16:03:19</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-13 16:03:19</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>4</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>841041</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305540</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_PASSPORT</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-13 15:20:34</CreationDateTime>
+            <RevisedDateTime>2017-04-13 15:20:34</RevisedDateTime>
+            <AccessDateTime>2017-04-13 15:20:34</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>1065369#2</ISIndex>
+            <NoOfPages>2</NoOfPages>
+            <DocumentSize>250391</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-13 15:20:34</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-13 15:20:34</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>1</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>550747</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305490</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_AADHAAR CARD(2017_04_12_17_03_45_9960)</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-12 17:03:45</CreationDateTime>
+            <RevisedDateTime>2017-04-12 17:03:45</RevisedDateTime>
+            <AccessDateTime>2017-04-12 17:03:45</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>1033537#2</ISIndex>
+            <NoOfPages>3</NoOfPages>
+            <DocumentSize>451025</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-12 17:03:45</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-12 17:03:45</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>14</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>550747</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305483</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_AADHAAR CARD(2017_04_12_16_10_14_2430)</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-12 16:10:14</CreationDateTime>
+            <RevisedDateTime>2017-04-12 16:10:14</RevisedDateTime>
+            <AccessDateTime>2017-04-12 16:10:14</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>1031890#2</ISIndex>
+            <NoOfPages>2</NoOfPages>
+            <DocumentSize>247893</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-12 16:10:14</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-12 16:10:14</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>10</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>804833</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305441</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_AADHAAR CARD</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-12 11:56:17</CreationDateTime>
+            <RevisedDateTime>2017-04-12 11:56:17</RevisedDateTime>
+            <AccessDateTime>2017-04-12 11:56:17</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>1028558#2</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>74391</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-12 11:56:18</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-12 11:56:18</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>9</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>5213</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>67524</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_PAN</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2014-09-08 12:09:32</CreationDateTime>
+            <RevisedDateTime>2017-04-11 05:00:16</RevisedDateTime>
+            <AccessDateTime>2017-04-11 05:00:42</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>43612#2</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>46255</DocumentSize>
+            <EnableLog>Y</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>not defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>PP</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2114-09-08 12:09:32</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2114-09-08 12:09:32</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>Supervisor</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>10</DocOrderNo>
+            <FiledByUser>Supervisor</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>738569</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305410</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_ID CARD ISSUED BY GOVERNMENT DEPARTMENTS, STATUTORY AUTHORITIES,PSU,SCHEDULED COMMERCIAL BANKS</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-10 19:25:37</CreationDateTime>
+            <RevisedDateTime>2017-04-10 19:25:37</RevisedDateTime>
+            <AccessDateTime>2017-04-10 19:25:37</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>962272#2</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>111857</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-10 19:25:37</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-10 19:25:37</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>3</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>729111</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>305395</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>IdentityProof_OCI-PIO BOOKLET WITH PASSPORT FOR RETURNING INDIAN WITH DETAILS OF CUSTOMER PHOTO AND VALIDITY</DocumentName>
+            <OwnerIndex>4648</OwnerIndex>
+            <CreationDateTime>2017-04-10 14:51:08</CreationDateTime>
+            <RevisedDateTime>2017-04-10 14:51:08</RevisedDateTime>
+            <AccessDateTime>2017-04-10 14:51:08</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>952803#2</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>125077</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>SMTABLETUSER</Author>
+            <FTSFlag>XX</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2117-04-10 14:51:08</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2117-04-10 14:51:08</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>SMTABLETUSER</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>5</DocOrderNo>
+            <FiledByUser>SMTABLETUSER</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+      <SearchResult>
+         <Document>
+            <ParentFolderIndex>127066</ParentFolderIndex>
+            <ReferenceFlag>O</ReferenceFlag>
+            <LoginUserRights>1111111111</LoginUserRights>
+            <DocumentIndex>155194</DocumentIndex>
+            <DocumentVersionNo>1.0</DocumentVersionNo>
+            <DocumentName>KYC_Documents_SHGentity_ID_166214_16621420160803171549</DocumentName>
+            <OwnerIndex>1</OwnerIndex>
+            <CreationDateTime>2016-08-03 17:20:11</CreationDateTime>
+            <RevisedDateTime>2017-04-08 15:10:19</RevisedDateTime>
+            <AccessDateTime>2017-04-08 15:10:38</AccessDateTime>
+            <DataDefinition>
+               <DataDefIndex>374</DataDefIndex>
+               <DataDefName>kyc_IdentityProof</DataDefName>
+            </DataDefinition>
+            <VersionFlag>N</VersionFlag>
+            <DocumentType>I</DocumentType>
+            <ISIndex>219237#2</ISIndex>
+            <NoOfPages>1</NoOfPages>
+            <DocumentSize>313427</DocumentSize>
+            <EnableLog>N</EnableLog>
+            <DocumentLock>N</DocumentLock>
+            <Comment>Not Defined</Comment>
+            <Author>Supervisor</Author>
+            <FTSFlag>PP</FTSFlag>
+            <DocStatus>A</DocStatus>
+            <ExpiryDateTime>2116-08-02 17:20:11</ExpiryDateTime>
+            <FinalizedFlag>N</FinalizedFlag>
+            <FinalizedDateTime>2116-08-02 17:20:11</FinalizedDateTime>
+            <CheckoutStatus>N</CheckoutStatus>
+            <Owner>Supervisor</Owner>
+            <CreatedByAppName>tif</CreatedByAppName>
+            <DocOrderNo>8</DocOrderNo>
+            <FiledByUser>Supervisor</FiledByUser>
+            <PullPrintFlag>N</PullPrintFlag>
+            <NoOfPages>0</NoOfPages>
+            <ThumbnailFlag>N</ThumbnailFlag>
+            <OriginalFolderLocation>G</OriginalFolderLocation>
+            <AnnotationFlag>N</AnnotationFlag>
+            <LinkDocFlag>N</LinkDocFlag>
+            <ISSecureFlag>N</ISSecureFlag>
+         </Document>
+      </SearchResult>
+   </SearchResults>
+</NGOSearchDocumentExt_Output>
+
+
+
+
